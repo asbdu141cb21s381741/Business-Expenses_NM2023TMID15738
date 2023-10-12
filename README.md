@@ -8,6 +8,6 @@ dashboard 3 -https://public.tableau.com/app/profile/archana.g1837/viz/expensesin
 
 story 1 -https://public.tableau.com/app/profile/archana.g1837/viz/Expenses_2_16969271407180/Story2
 
-story 2-
+story 2-https://public.tableau.com/app/profile/archana.g1837/viz/Expenses_2_16969271407180/Story3
 
 video demonstration link-
